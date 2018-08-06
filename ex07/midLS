@@ -1,0 +1,1 @@
+ls -FUm | sed s/@// | sed s/\*// | sed s/=// | sed s/%// | sed s/\|// | tr -d '\ '
