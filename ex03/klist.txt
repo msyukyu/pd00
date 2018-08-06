@@ -1,0 +1,4 @@
+Aug  6 13:46:21 2018  Aug  6 23:46:21 2018  krbtgt/S19.BE@S19.BE
+Aug  6 13:46:22 2018  Aug  6 23:46:21 2018  ldap/ldap-master.s19.be@S19.BE
+Aug  6 13:46:22 2018  Aug  6 23:46:21 2018  HTTP/san-ssd.s19.be@S19.BE
+Aug  6 14:28:00 2018  Aug  6 23:46:21 2018  host/vogsphere.s19.be@S19.BE
